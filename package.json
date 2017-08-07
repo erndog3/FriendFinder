@@ -1,0 +1,32 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "full stack match making game using node",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erndog3/FriendFinder.git"
+  },
+  "keywords": [
+    "node",
+    "html",
+    "express",
+    "body-parser",
+    "path"
+  ],
+  "author": "Ernesto R Espinoza",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/erndog3/FriendFinder/issues"
+  },
+  "homepage": "https://github.com/erndog3/FriendFinder#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.4",
+    "path": "^0.12.7"
+  }
+}
